@@ -1,4 +1,5 @@
 name=['kannan','manish','selvi','pandian','yogi']#list value [0,1,2,3,4]
+print(name)
 name.remove('manish')#remove() method can be remove the value(element) in the list
 close_fri='yogi'#yogi is the list value then i stored in another variable
 name.remove(close_fri)#i am using remove() method to removing variable value 

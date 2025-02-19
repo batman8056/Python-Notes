@@ -9,3 +9,4 @@ while polling:
        polling=False
 for name,mountain in responses.items():
     print(name+" would like to climb "+mountain+".")
+

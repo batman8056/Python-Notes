@@ -5,6 +5,7 @@ pizza={
 print("you order a "+pizza['crust']+"-crust pizza with the following toppings: ")#the print the dictionary
 for topping in pizza['toppings']:#for loop used to inside the dictionary access
     print(topping)#print the variable
+    
 favorite_languages={
     'jan':['java','go'],
     'manish':['python','java'],

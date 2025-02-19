@@ -9,5 +9,5 @@ elif alien ['speed']=='medium':#elif statement to define spped of alien spped os
 else:
     x_increment=3 #this is fast alien value
 
-alien['x_position']=alien['x_position']+x_increment#new value is assign to the dictonary
+alien['x_position'] = x_increment#new value is assign to the dictonary
 print("new x_position: "+str(alien['x_position']))#print the new value in x position

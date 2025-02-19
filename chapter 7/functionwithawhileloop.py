@@ -1,5 +1,5 @@
 def build_person(first_name,last_name,agee):#give the variable inside the function
-    person=first_name+""+last_name+" "+agee+" yearolder"#first name and last name stored in person variable
+    person=first_name+""+last_name+" you are "+agee+" year older"#first name and last name stored in person variable
     return person.title()#return person you can make  a title() function
 while True:#while loop in flag conditon
     print("\nplease tell me your name and age:")#print statement
@@ -15,3 +15,4 @@ while True:#while loop in flag conditon
        break
     formatted_name=build_person(f_name,l_name,str(age))#f_name,l_name and age function inside give function output stored formatted variabel
     print("\nHello "+formatted_name)#print the formatted_name
+build_person()
