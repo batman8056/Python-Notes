@@ -1,4 +1,4 @@
-# Implement Queue Using Two Stacks
+# Implement Queue Using Two Stacks O(1)
 
 class MyQueue:
     def __init__(self):
