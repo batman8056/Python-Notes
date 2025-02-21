@@ -3,13 +3,13 @@
 
 class Person:
     def __init__(self, name, age):  # Constructor (initializer)
-        self.name = name  # Attribute
-        self.age = age    # Attribute
+        self.name = name  # Stores the name attribute in the object.
+        self.age = age    # Stores the age attribute in the object.
 
-    def greet(self):  # Method
+    def greet(self):  # Method inside the class.
         print(f"Hello, my name is {self.name} and I am {self.age} years old.")
 
-# Creating an object (instance)
+# Creating an object p1 (instance)
 p1 = Person("John", 25)
 
 # Accessing attributes and calling methods
