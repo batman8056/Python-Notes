@@ -11,7 +11,7 @@ Employee.change_company("Microsoft")
 print(Employee.company)  # Output: Microsoft
 
 
-# Static Method (@staticmethod) - No self or cls Needed
+# Static Method (@staticmethod) - No self or cls Needed (Acts like a normal function inside a class.)
 class MathUtils:
     @staticmethod
     def add(a, b):
