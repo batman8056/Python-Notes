@@ -1,0 +1,8 @@
+->  Big-O notation is used to describe the performance or complexity of an algorithm. 
+    Specifically, it describes the worst-case scenario in terms of time or space complexity.
+
+
+1. constant 0(1)
+2. log
+3. linear 0(n)
+4. 
