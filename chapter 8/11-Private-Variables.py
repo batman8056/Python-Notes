@@ -1,5 +1,5 @@
 # Private variables (__balance) cannot be accessed directly outside the class.
-
+# In Python, variables prefixed with _ (single underscore) or __ (double underscore) are considered private (though not strictly enforced).
 class BankAccount:
     def __init__(self, balance):
         self.__balance = balance  # Private variable

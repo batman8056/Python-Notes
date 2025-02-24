@@ -16,3 +16,12 @@ p1 = Person("John", 25)
 print(p1.name)  # Output: John
 print(p1.age)   # Output: 25
 p1.greet()  # Output: Hello, my name is John and I am 25 years old.
+
+# class Student:
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+#     def msg(self):
+#         print(f"Hello, my name is {self.name} and i am {self.age} years old.")
+# a1= Student("manish", 27)
+# a1.msg()
