@@ -43,6 +43,8 @@ return the only number in the range
 that is missing from the array
 (3-missing-number.py)
 
-Q.
+Q.Given an array num of n integer where nums[i] 
+is in the range [1,n], return an arrayof all the 
+integer in the range [1, n] that do not appear in nums.
 
 
