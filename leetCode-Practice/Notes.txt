@@ -1,8 +1,37 @@
 ->  Big-O notation is used to describe the performance or complexity of an algorithm. 
     Specifically, it describes the worst-case scenario in terms of time or space complexity.
+(1-big-o-notation.py)
+
+Big O Summery:-
+       ^
+faster |
+
+1. constant O(1)->Access an element in an array by index
+2. logarithmic O(log(n))->Binary search in a sorted array
+3. linear O(n)->Finding an item in an unsorted list
+4. linearithmic O(N log N)-> Merge sort or quicksort
+5. quadratic O(N^2)-> Bubble sort or selection sort
+6. expential O(2^N)->Finding all subsets of a list
+7. Factorial O(N!)->Solving the traveling salesman problem exhaustively
+      ^
+Slowe |
+     
+Process for problem solving i use in LeetCode
+
+1. Read the problem twice to understand it  
+2. Try think basically of diffrent way to solve problem
+3. Think end to end of the best solution based on complexity
+4. write the algorithm from patten is drawing
+5. Code it out
+6. Try and improve it once you think you're finished
+7. Go through other solution(even if you answered correctly)
 
 
-1. constant 0(1)
-2. log
-3. linear 0(n)
-4. 
+Arrays:-
+------
+->Contains Duplicate element
+( 2-find-duplicate-element.py)
+
+
+
+
