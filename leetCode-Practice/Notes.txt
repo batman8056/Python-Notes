@@ -30,8 +30,19 @@ Process for problem solving i use in LeetCode
 Arrays:-
 ------
 ->Contains Duplicate element
-( 2-find-duplicate-element.py)
 
+Q.Given an interger array numbers,
+retuen true if any value appear 
+at leat twice in the array and 
+return false if every element distinct?
+(2-find-duplicate-element.py)
 
+Q.Given an array numbers containg 
+n distinct number in the range [0-n],
+return the only number in the range 
+that is missing from the array
+(3-missing-number.py)
+
+Q.
 
 
